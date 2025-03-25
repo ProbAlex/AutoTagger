@@ -1,0 +1,12 @@
+
+{
+  "id": "AutoTagger",
+  "name": "AutoTagger",
+  "version": "1.0.0",
+  "main": "main.js",
+  "minAppVersion": "0.12.0",
+  "author": "Alexander Dial",
+  "description": "Auto-tags notes using ai.alexalex.net",
+  "authorUrl": "https://alexalex.net",
+  "isDesktopOnly": true
+}
